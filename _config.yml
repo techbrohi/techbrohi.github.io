@@ -1,2 +1,9 @@
 theme: jekyll-theme-chirpy
 
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Systematic Writeups"
+    url: /writeups/
